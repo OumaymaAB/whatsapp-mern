@@ -1,3 +1,14 @@
+#### App structure
+  ------------------------------       ==============>        ---------------------------------------
+ |  Frontend (ReactJS)          |                            |  Backend (ExpressJS, NodeJS, MongoDB) |
+  ------------------------------       <==============        ---------------------------------------
+
+ ### NOTE :
+ 1) We are using firebase for : 
+    - authentication
+    - hosting
+ 2) the realtime logic will be using Pusher
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
